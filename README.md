@@ -4,5 +4,5 @@ This is a simple Instagram clone focusing on the UI. The project includes the Ho
 
 Feel free to explore and customize! 🚀
 
-![](/İnsta.gif)# -nstagram-Clone-UI
-# -nstagram-Clone-UI
+![](/İnsta.gif)
+
