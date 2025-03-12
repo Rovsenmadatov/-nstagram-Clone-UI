@@ -1,0 +1,19 @@
+current directory: /Users/ekbermemmedzade/Desktop/InstagramClone/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/ekbermemmedzade/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ekbermemmedzade/Desktop/InstagramClone/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250216-1541-cj0rfk sitelibdir\=./.gem.20250216-1541-cj0rfk clean
+
+current directory: /Users/ekbermemmedzade/Desktop/InstagramClone/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250216-1541-cj0rfk sitelibdir\=./.gem.20250216-1541-cj0rfk
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/ekbermemmedzade/Desktop/InstagramClone/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250216-1541-cj0rfk sitelibdir\=./.gem.20250216-1541-cj0rfk install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250216-1541-cj0rfk
+
+current directory: /Users/ekbermemmedzade/Desktop/InstagramClone/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250216-1541-cj0rfk sitelibdir\=./.gem.20250216-1541-cj0rfk clean
